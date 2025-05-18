@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "malvin~xudF1RQa#Sivls4SMWTiG4hmSFYPvC_kP8
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || "-",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "Ray White",
+BOT_NAME: process.env.BOT_NAME || "Robinthebank",
 // add bot namw here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -43,7 +43,7 @@ MODE: process.env.MODE || "public",
      MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/qumhu4.jpg",
 // add custom menu and mention reply image url
 
-       ALIVE_IMG: process.env.ALIVE_IMG || "Die peasant",
+       ALIVE_IMG: process.env.ALIVE_IMG || "Die Peasant",
 // add img for alive msg
 
         LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ✦ ғʀᴏᴍ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/XdKing2/MALVIN-XD",
@@ -120,21 +120,18 @@ version: process.env.version || "4.0.0",
     
 START_MSG: process.env.START_MSG || `Thanks for adding me to the group you lil piece of shit🌚! 👋🏻* 
 
-    *ᴋᴇᴇᴘ ᴏɴ ᴜsɪɴɢ ᴍᴀʟᴠɪɴ ᴍᴏᴅs🚩* 
+    * Kawaii🚩* 
 
-> Joɪɴ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ (ᴀ ᴍᴜsᴛ): ⤵️  
-    https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+> Join Community Group ( Link Below 🙂 ): ⤵️  
+    https://chat.whatsapp.com/EhTppcW1g1NG22Fd6Om4V2
 
-> sᴜʙsᴄʀɪʙᴇ ʏᴛ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴛᴜᴛᴏʀɪᴀʟs
-    https://youtube.com/@malvintech2
-
-    - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ . ]*
+    - *ʏᴏᴜʀ ʙᴏᴛ ᴘʀᴇғɪx: ➡️[ - ]*
 > - ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴜʀ ᴘʀᴇғɪx ᴜsɪɴɢ ᴛʜᴇ .ᴘʀᴇғɪx ᴄᴏᴍᴍᴀɴᴅ
 
 > ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sʜᴀʀᴇ, sᴛᴀʀ &ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ⬇️ 
     https://github.com/XdKing2/MALVIN-XD
 
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ 🇿🇼`
+> ©  By Ray White`
 };
 
 
